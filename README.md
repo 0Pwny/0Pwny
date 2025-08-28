@@ -1,6 +1,6 @@
 # 👋 Hi, I’m 0Pwny  
 
-![](https://komarev.com/ghpvc/?username=0Pwny&color=brightgreen&style=style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=0Pwny&color=brightgreen&abbreviated=true)
 
 **Tech Entrepreneur | Cloud & AI Consultant | Founder @ Zenvex**  
 
