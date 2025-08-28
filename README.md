@@ -1,5 +1,7 @@
 # 👋 Hi, I’m 0Pwny  
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=style=flat-square&abbreviated=true)
+
 **Tech Entrepreneur | Cloud & AI Consultant | Founder @ Zenvex**  
 
 I specialize in designing cloud architectures, automating DevOps workflows, and building intelligent solutions with AI.  
